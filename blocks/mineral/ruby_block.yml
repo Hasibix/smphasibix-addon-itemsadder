@@ -1,0 +1,20 @@
+info:
+  namespace: smphasibix
+items:
+  ruby_block:
+    enabled: true
+    display_name: "Ruby Block"
+    permission: ruby_block
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/ruby_block.png
+    specific_properties:
+      block:
+        placed_model:
+          type: TILE
+          break_particles_material: RED_TERRACOTTA
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

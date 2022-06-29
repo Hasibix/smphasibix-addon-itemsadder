@@ -1,0 +1,76 @@
+info:
+  namespace: smphasibix
+items:
+  amethyst_helmet:
+    enabled: true
+    display_name: "Amethyst Helmet"
+    permission: amethyst_helmet
+    resource:
+      generate: true
+      material: IRON_HELMET
+      textures:
+        - item/amethyst_helmet.png
+    durability:
+      max_custom_durability: 100
+    specific_properties:
+      armor:
+        custom_armor: amethyst_armor
+        slot: head
+    attribute_modifiers:
+      head:
+        armor: 1
+  amethyst_chestplate:
+    enabled: true
+    display_name: "Amethyst Chestplate"
+    permission: amethyst_chestplate
+    resource:
+      generate: true
+      material: IRON_CHESTPLATE
+      textures:
+        - item/amethyst_chestplate.png
+    durability:
+      max_custom_durability: 300
+    specific_properties:
+      armor:
+        custom_armor: amethyst_armor
+        slot: chest
+    attribute_modifiers:
+      chest:
+        armor: 3
+        armorToughness: 1
+  amethyst_leggings:
+    enabled: true
+    display_name: "Amethyst Leggings"
+    permission: amethyst_leggings
+    resource:
+      generate: true
+      material: IRON_LEGGINGS
+      textures:
+        - item/amethyst_leggings.png
+    durability:
+      max_custom_durability: 200
+    specific_properties:
+      armor:
+        custom_armor: amethyst_armor
+        slot: legs
+    attribute_modifiers:
+      legs:
+        armor: 2
+  amethyst_boots:
+    enabled: true
+    display_name: "Amethyst Boots"
+    permission: amethyst_boots
+    resource:
+      generate: true
+      material: IRON_BOOTS
+      textures:
+        - item/amethyst_boots.png
+    durability:
+      max_custom_durability: 200
+    specific_properties:
+      armor:
+        custom_armor: amethyst_armor
+        slot: FEET
+    attribute_modifiers:
+      feet:
+        armor: 1

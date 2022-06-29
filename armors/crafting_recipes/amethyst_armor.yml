@@ -1,0 +1,60 @@
+info:
+  namespace: smphasibix
+recipes:
+  crafting_table:
+    amethyst_helmet:
+      permission: amethyst_helmet
+      enabled: true
+      pattern:
+        - AAA
+        - AXA
+        - XXX
+      pattern_2:
+        - XXX
+        - AAA
+        - AXA
+      ingredients:
+        A: AMETHYST_SHARD
+      result:
+        item: smphasibix:amethyst_helmet
+        amount: 1
+    amethyst_chestplate:
+      permission: amethyst_chestplate
+      enabled: true
+      pattern:
+        - AXA
+        - AAA
+        - AAA
+      ingredients:
+        A: AMETHYST_SHARD
+      result:
+        item: smphasibix:amethyst_chestplate
+        amount: 1
+    amethyst_leggings:
+      permission: amethyst_leggings
+      enabled: true
+      pattern:
+        - AAA
+        - AXA
+        - AXA
+      ingredients:
+        A: AMETHYST_SHARD
+      result:
+        item: smphasibix:amethyst_leggings
+        amount: 1
+    amethyst_boots:
+      permission: amethyst_boots
+      enabled: true
+      pattern:
+        - XXX
+        - AXA
+        - AXA
+      pattern_2:
+        - AXA
+        - AXA
+        - XXX
+      ingredients:
+        A: AMETHYST_SHARD
+      result:
+        item: smphasibix:amethyst_boots
+        amount: 1

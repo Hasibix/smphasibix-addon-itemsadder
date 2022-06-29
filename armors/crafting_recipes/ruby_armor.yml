@@ -1,0 +1,60 @@
+info:
+  namespace: smphasibix
+recipes:
+  crafting_table:
+    ruby_helmet:
+      permission: ruby_helmet
+      enabled: true
+      pattern:
+        - AAA
+        - AXA
+        - XXX
+      pattern_2:
+        - XXX
+        - AAA
+        - AXA
+      ingredients:
+        A: smphasibix:ruby
+      result:
+        item: smphasibix:ruby_helmet
+        amount: 1
+    ruby_chestplate:
+      permission: ruby_chestplate
+      enabled: true
+      pattern:
+        - AXA
+        - AAA
+        - AAA
+      ingredients:
+        A: smphasibix:ruby
+      result:
+        item: smphasibix:ruby_chestplate
+        amount: 1
+    ruby_leggings:
+      permission: ruby_leggings
+      enabled: true
+      pattern:
+        - AAA
+        - AXA
+        - AXA
+      ingredients:
+        A: smphasibix:ruby
+      result:
+        item: smphasibix:ruby_leggings
+        amount: 1
+    ruby_boots:
+      permission: ruby_boots
+      enabled: true
+      pattern:
+        - XXX
+        - AXA
+        - AXA
+      pattern_2:
+        - AXA
+        - AXA
+        - XXX
+      ingredients:
+        A: smphasibix:ruby
+      result:
+        item: smphasibix:ruby_boots
+        amount: 1

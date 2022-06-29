@@ -1,0 +1,56 @@
+info:
+  namespace: smphasibix
+recipes:
+  crafting_table:
+    emerald_sword:
+      permission: emerald_sword
+      enabled: true
+      pattern:
+        - XeX
+        - XeX
+        - XsX
+      ingredients:
+        e: EMERALD
+        s: STICK
+      result:
+        item: smphasibix:emerald_sword
+        amount: 1
+    ruby_sword:
+      permission: ruby_sword
+      enabled: true
+      pattern:
+        - XRX
+        - XRX
+        - XSX
+      ingredients:
+        R: smphasibix:ruby
+        S: STICK
+      result:
+        item: smphasibix:ruby_sword
+        amount: 1
+    amethyst_sword:
+      permission: amethyst_sword
+      enabled: true
+      pattern:
+        - XAX
+        - XAX
+        - XSX
+      ingredients:
+        A: AMETHYST_SHARD
+        S: STICK
+      result:
+        item: smphasibix:amethyst_sword
+        amount: 1
+    copper_sword:
+      permission: copper_sword
+      enabled: true
+      pattern:
+        - XCX
+        - XCX
+        - XSX
+      ingredients:
+        C: COPPER_INGOT
+        S: S
+      result:
+        item: smphasibix:copper_sword
+        amount: 1

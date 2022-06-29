@@ -1,0 +1,76 @@
+info:
+  namespace: smphasibix
+items:
+  ruby_helmet:
+    enabled: true
+    display_name: "Ruby Helmet"
+    permission: ruby_helmet
+    resource:
+      generate: true
+      material: DIAMOND_HELMET
+      textures:
+        - item/ruby_helmet.png
+    durability:
+      max_custom_durability: 250
+    specific_properties:
+      armor:
+        custom_armor: ruby_armor
+        slot: head
+    attribute_modifiers:
+      head:
+        armor: 1.4
+  ruby_chestplate:
+    enabled: true
+    display_name: "Ruby Chestplate"
+    permission: ruby_chestplate
+    resource:
+      generate: true
+      material: DIAMOND_CHESTPLATE
+      textures:
+        - item/ruby_chestplate.png
+    durability:
+      max_custom_durability: 450
+    specific_properties:
+      armor:
+        custom_armor: ruby_armor
+        slot: chest
+    attribute_modifiers:
+      chest:
+        armor: 3.7
+        armorToughness: 1
+  ruby_leggings:
+    enabled: true
+    display_name: "Ruby Leggings"
+    permission: ruby_leggings
+    resource:
+      generate: true
+      material: DIAMOND_LEGGINGS
+      textures:
+        - item/ruby_leggings.png
+    durability:
+      max_custom_durability: 350
+    specific_properties:
+      armor:
+        custom_armor: ruby_armor
+        slot: legs
+    attribute_modifiers:
+      legs:
+        armor: 2.9
+  ruby_boots:
+    enabled: true
+    display_name: "Ruby Boots"
+    permission: ruby_boots
+    resource:
+      generate: true
+      material: DIAMOND_BOOTS
+      textures:
+        - item/ruby_boots.png
+    durability:
+      max_custom_durability: 350
+    specific_properties:
+      armor:
+        custom_armor: ruby_armor
+        slot: FEET
+    attribute_modifiers:
+      feet:
+        armor: 1.4

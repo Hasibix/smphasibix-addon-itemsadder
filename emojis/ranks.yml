@@ -1,0 +1,38 @@
+info:
+  namespace: smphasibix
+font_images:
+  owner:
+    permission: "smphasibix.owner"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "rank/owners.png"
+    scale_ratio: 9
+    y_position: 8
+  admin:
+    permission: "smphasibix.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "rank/admin.png"
+    scale_ratio: 9
+    y_position: 8
+  mod:
+    permission: "smphasibix.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "rank/mod.png"
+    scale_ratio: 9
+    y_position: 8
+  helper:
+    permission: "smphasibix.admin"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "rank/helper.png"
+    scale_ratio: 9
+    y_position: 8
+  member:
+    permission: "smphasibix.member"
+    show_in_gui: true
+    suggest_in_command: false
+    path: "rank/member.png"
+    scale_ratio: 9
+    y_position: 8

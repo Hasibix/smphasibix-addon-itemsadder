@@ -1,0 +1,17 @@
+info:
+  namespace: smphasibix
+items:
+  emerald_sword:
+    enabled: true
+    display_name: "Emerald Sword"
+    permission: emerald_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/emerald_sword.png
+    durability:
+      max_custom_durability: 225
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 6.5

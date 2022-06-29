@@ -1,0 +1,20 @@
+info:
+  namespace: smphasibix
+items:
+  cracked_enderite_debris:
+    enabled: true
+    display_name: "Cracked Enderite Debris"
+    permission: cracked_enderite_debris
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/cracked_enderite_debris.png
+    specific_properties:
+      block:
+        placed_model:
+          type: TILE
+          break_particles_material: CYAN_CONCRETE
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

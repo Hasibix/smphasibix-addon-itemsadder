@@ -1,0 +1,26 @@
+info:
+  namespace: smphasibix
+recipes:
+  crafting_table:   
+    example_block_recipe:
+      enabled: true
+      pattern:
+        - DDD 
+        - DDD
+        - DDD
+      ingredients:
+        D: smphasibix:example_item
+      result:
+        item: smphasibix:example_block
+        amount: 64
+  cooking:
+    example_block_cooking:
+      enabled: true
+      machines:
+        - BLAST_FURNACE
+        - FURNACE
+      ingredient:
+        item: smphasibix:example_block
+      result:
+        item: smp:hasibix:example_item
+        amount: 9

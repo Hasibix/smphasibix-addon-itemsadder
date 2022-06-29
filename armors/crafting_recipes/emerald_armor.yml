@@ -1,0 +1,60 @@
+info:
+  namespace: smphasibix
+recipes:
+  crafting_table:
+    emerald_helmet:
+      permission: emerald_helmet
+      enabled: true
+      pattern:
+        - AAA
+        - AXA
+        - XXX
+      pattern_2:
+        - XXX
+        - AAA
+        - AXA
+      ingredients:
+        A: EMERALD
+      result:
+        item: smphasibix:emerald_helmet
+        amount: 1
+    emerald_chestplate:
+      permission: emerald_chestplate
+      enabled: true
+      pattern:
+        - AXA
+        - AAA
+        - AAA
+      ingredients:
+        A: EMERALD
+      result:
+        item: smphasibix:emerald_chestplate
+        amount: 1
+    emerald_leggings:
+      permission: emerald_leggings
+      enabled: true
+      pattern:
+        - AAA
+        - AXA
+        - AXA
+      ingredients:
+        A: EMERALD
+      result:
+        item: smphasibix:emerald_leggings
+        amount: 1
+    emerald_boots:
+      permission: emerald_boots
+      enabled: true
+      pattern:
+        - XXX
+        - AXA
+        - AXA
+      pattern_2:
+        - AXA
+        - AXA
+        - XXX
+      ingredients:
+        A: EMERALD
+      result:
+        item: smphasibix:emerald_boots
+        amount: 1

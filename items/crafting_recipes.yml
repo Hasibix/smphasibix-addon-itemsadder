@@ -1,0 +1,17 @@
+info:
+  namespace: smphasibix
+recipes:
+  crafting_table:
+    enderite_ingot:
+      permission: enderite_ingot
+      enabled: true
+      pattern:
+        - XEX
+        - XeX
+        - XsX
+      ingredients:
+        E: smphasibix:enderite_ingot
+        D: DIAMOND
+      result:
+        item: smphasibix:enderite_ingot
+        amount: 1

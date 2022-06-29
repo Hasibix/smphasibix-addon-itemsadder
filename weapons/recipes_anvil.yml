@@ -1,0 +1,30 @@
+info:
+  namespace: smphasibix
+recipes:
+  anvil_repair:
+    emerald_sword:
+      enabled: true
+      permission: emerald_sword
+      ingredient: EMERALD
+      item: smphasibix:emerald_sword
+    copper_sword:
+      enabled: true
+      permission: copper_sword
+      ingredient: COPPER_INGOT
+      item: smphasibix:copper_sword
+    ruby_sword:
+      enabled: true
+      permission: ruby_sword
+      ingredient: smphasibix:ruby
+      item: smphasibix:ruby_sword
+    amethyst_sword:
+      enabled: true
+      permission: amethyst_sword
+      ingredient: AMETHYST_SHARD
+      item: smphasibix:amethyst_sword
+    enderite_sword:
+      enabled: true
+      permission: enderite_sword
+      ingredient: smphasibix:enderite_ingot
+      item: smphasibix:enderite_sword
+

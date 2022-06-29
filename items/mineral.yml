@@ -1,0 +1,30 @@
+info:
+  namespace: smphasibix
+items:
+  ruby:
+    enabled: true
+    display_name: "Ruby"
+    permission: ruby
+    resource:
+      material: DIAMOND
+      generate: true
+      textures:
+        - item/ruby.png
+  enderite_scrap:
+    enabled: true
+    display_name: "Enderite Scrap"
+    permission: enderite_scrap
+    resource:
+      material: NETHERITE_SCRAP
+      generate: true
+      textures:
+        - item/enderite_scrap.png
+  enderite_ingot:
+    enabled: true
+    display_name: "Enderite"
+    permission: enderite_ingot
+    resource:
+      material: NETHERITE_INGOT
+      generate: true
+      textures:
+        - item/enderite_ingot.png

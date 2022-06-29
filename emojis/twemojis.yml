@@ -1,0 +1,1605 @@
+info:
+  namespace: smphasibix
+font_images:
+  0:
+    permission: zero
+    show_in_gui: true
+    path: "emojis/twemoji/0"
+    scale_ratio: 9
+    y_position: 8
+  1:
+    permission: one
+    show_in_gui: true
+    path: "emojis/twemoji/1"
+    scale_ratio: 9
+    y_position: 8
+  2:
+    permission: two
+    show_in_gui: true
+    path: "emojis/twemoji/2"
+    scale_ratio: 9
+    y_position: 8
+  3:
+    permission: three
+    show_in_gui: true
+    path: "emojis/twemoji/3"
+    scale_ratio: 9
+    y_position: 8
+  4:
+    permission: four
+    show_in_gui: true
+    path: "emojis/twemoji/4"
+    scale_ratio: 9
+    y_position: 8
+  5:
+    permission: five
+    show_in_gui: true
+    path: "emojis/twemoji/5"
+    scale_ratio: 9
+    y_position: 8
+  6:
+    permission: six
+    show_in_gui: true
+    path: "emojis/twemoji/6"
+    scale_ratio: 9
+    y_position: 8
+  7:
+    permission: seven
+    show_in_gui: true
+    path: "emojis/twemoji/7"
+    scale_ratio: 9
+    y_position: 8
+  8:
+    permission: eight
+    show_in_gui: true
+    path: "emojis/twemoji/8"
+    scale_ratio: 9
+    y_position: 8
+  9:
+    permission: nine
+    show_in_gui: true
+    path: "emojis/twemoji/9"
+    scale_ratio: 9
+    y_position: 8
+  alarmclock:
+    permission: alarmclock
+    show_in_gui: true
+    path: "emojis/twemoji/alarmclock"
+    scale_ratio: 9
+    y_position: 8
+  alien:
+    permission: alien
+    show_in_gui: true
+    path: "emojis/twemoji/alien"
+    scale_ratio: 9
+    y_position: 8
+  angry:
+    permission: angry
+    show_in_gui: true
+    path: "emojis/twemoji/angry"
+    scale_ratio: 9
+    y_position: 8
+  angry1:
+    permission: angry1
+    show_in_gui: true
+    path: "emojis/twemoji/angry1"
+    scale_ratio: 9
+    y_position: 8
+  angry2:
+    permission: angry2
+    show_in_gui: true
+    path: "emojis/twemoji/angry2"
+    scale_ratio: 9
+    y_position: 8
+  angry3:
+    permission: angry3
+    show_in_gui: true
+    path: "emojis/twemoji/angry3"
+    scale_ratio: 9
+    y_position: 8
+  anxious:
+    permission: anxious
+    show_in_gui: true
+    path: "emojis/twemoji/anxious"
+    scale_ratio: 9
+    y_position: 8
+  aquarius:
+    permission: aquarius
+    show_in_gui: true
+    path: "emojis/twemoji/aquarius"
+    scale_ratio: 9
+    y_position: 8
+  aries:
+    permission: aries
+    show_in_gui: true
+    path: "emojis/twemoji/aries"
+    scale_ratio: 9
+    y_position: 8
+  asterisk:
+    permission: asterisk
+    show_in_gui: true
+    path: "emojis/twemoji/asterisk"
+    scale_ratio: 9
+    y_position: 8
+  atm:
+    permission: atm
+    show_in_gui: true
+    path: "emojis/twemoji/atm"
+    scale_ratio: 9
+    y_position: 8
+  avocado:
+    permission: avocado
+    show_in_gui: true
+    path: "emojis/twemoji/avocado"
+    scale_ratio: 9
+    y_position: 8
+  bacon:
+    permission: bacon
+    show_in_gui: true
+    path: "emojis/twemoji/bacon"
+    scale_ratio: 9
+    y_position: 8
+  baguette:
+    permission: baguette
+    show_in_gui: true
+    path: "emojis/twemoji/baguette"
+    scale_ratio: 9
+    y_position: 8
+  bandage:
+    permission: bandage
+    show_in_gui: true
+    path: "emojis/twemoji/bandage"
+    scale_ratio: 9
+    y_position: 8
+  bat:
+    permission: bat
+    show_in_gui: true
+    path: "emojis/twemoji/bat"
+    scale_ratio: 9
+    y_position: 8
+  biceps:
+    permission: biceps
+    show_in_gui: true
+    path: "emojis/twemoji/biceps"
+    scale_ratio: 9
+    y_position: 8
+  biohazard:
+    permission: biohazard
+    show_in_gui: true
+    path: "emojis/twemoji/biohazard"
+    scale_ratio: 9
+    y_position: 8
+  blocked:
+    permission: blocked
+    show_in_gui: true
+    path: "emojis/twemoji/blocked"
+    scale_ratio: 9
+    y_position: 8
+  blood:
+    permission: blood
+    show_in_gui: true
+    path: "emojis/twemoji/blood"
+    scale_ratio: 9
+    y_position: 8
+  blush:
+    permission: blush
+    show_in_gui: true
+    path: "emojis/twemoji/blush"
+    scale_ratio: 9
+    y_position: 8
+  bye:
+    permission: bye
+    show_in_gui: true
+    path: "emojis/twemoji/bye"
+    scale_ratio: 9
+    y_position: 8
+  callme:
+    permission: callme
+    show_in_gui: true
+    path: "emojis/twemoji/callme"
+    scale_ratio: 9
+    y_position: 8
+  cancel:
+    permission: cancel
+    show_in_gui: true
+    path: "emojis/twemoji/cancel"
+    scale_ratio: 9
+    y_position: 8
+  cancer:
+    permission: cancer
+    show_in_gui: true
+    path: "emojis/twemoji/cancer"
+    scale_ratio: 9
+    y_position: 8
+  capricorn:
+    permission: capricorn
+    show_in_gui: true
+    path: "emojis/twemoji/capricorn"
+    scale_ratio: 9
+    y_position: 8
+  carrot:
+    permission: carrot
+    show_in_gui: true
+    path: "emojis/twemoji/carrot"
+    scale_ratio: 9
+    y_position: 8
+  chair:
+    permission: chair
+    show_in_gui: true
+    path: "emojis/twemoji/chair"
+    scale_ratio: 9
+    y_position: 8
+  chick:
+    permission: chick
+    show_in_gui: true
+    path: "emojis/twemoji/chick"
+    scale_ratio: 9
+    y_position: 8
+  chick1:
+    permission: chick1
+    show_in_gui: true
+    path: "emojis/twemoji/chick1"
+    scale_ratio: 9
+    y_position: 8
+  chick2:
+    permission: chick2
+    show_in_gui: true
+    path: "emojis/twemoji/chick2"
+    scale_ratio: 9
+    y_position: 8
+  clap:
+    permission: clap
+    show_in_gui: true
+    path: "emojis/twemoji/clap"
+    scale_ratio: 9
+    y_position: 8
+  coffin:
+    permission: coffin
+    show_in_gui: true
+    path: "emojis/twemoji/coffin"
+    scale_ratio: 9
+    y_position: 8
+  cold:
+    permission: cold
+    show_in_gui: true
+    path: "emojis/twemoji/cold"
+    scale_ratio: 9
+    y_position: 8
+  confirm:
+    permission: confirm
+    show_in_gui: true
+    path: "emojis/twemoji/confirm"
+    scale_ratio: 9
+    y_position: 8
+  confused:
+    permission: confused
+    show_in_gui: true
+    path: "emojis/twemoji/confused"
+    scale_ratio: 9
+    y_position: 8
+  confused1:
+    permission: confused1
+    show_in_gui: true
+    path: "emojis/twemoji/confused1"
+    scale_ratio: 9
+    y_position: 8
+  couple:
+    permission: couple
+    show_in_gui: true
+    path: "emojis/twemoji/couple"
+    scale_ratio: 9
+    y_position: 8
+  cowboy:
+    permission: cowboy
+    show_in_gui: true
+    path: "emojis/twemoji/cowboy"
+    scale_ratio: 9
+    y_position: 8
+  crab:
+    permission: crab
+    show_in_gui: true
+    path: "emojis/twemoji/crab"
+    scale_ratio: 9
+    y_position: 8
+  croissant:
+    permission: croissant
+    show_in_gui: true
+    path: "emojis/twemoji/croissant"
+    scale_ratio: 9
+    y_position: 8
+  crossedfingers:
+    permission: crossedfingers
+    show_in_gui: true
+    path: "emojis/twemoji/crossedfingers"
+    scale_ratio: 9
+    y_position: 8
+  cry:
+    permission: cry
+    show_in_gui: true
+    path: "emojis/twemoji/cry"
+    scale_ratio: 9
+    y_position: 8
+  cry1:
+    permission: cry1
+    show_in_gui: true
+    path: "emojis/twemoji/cry1"
+    scale_ratio: 9
+    y_position: 8
+  crycat:
+    permission: crycat
+    show_in_gui: true
+    path: "emojis/twemoji/crycat"
+    scale_ratio: 9
+    y_position: 8
+  cucumber:
+    permission: cucumber
+    show_in_gui: true
+    path: "emojis/twemoji/cucumber"
+    scale_ratio: 9
+    y_position: 8
+  dead:
+    permission: dead
+    show_in_gui: true
+    path: "emojis/twemoji/dead"
+    scale_ratio: 9
+    y_position: 8
+  dead1:
+    permission: dead1
+    show_in_gui: true
+    path: "emojis/twemoji/dead1"
+    scale_ratio: 9
+    y_position: 8
+  dollar:
+    permission: dollar
+    show_in_gui: true
+    path: "emojis/twemoji/dollar"
+    scale_ratio: 9
+    y_position: 8
+  doubleexclamation:
+    permission: doubleexclamation
+    show_in_gui: true
+    path: "emojis/twemoji/doubleexclamation"
+    scale_ratio: 9
+    y_position: 8
+  down:
+    permission: down
+    show_in_gui: true
+    path: "emojis/twemoji/down"
+    scale_ratio: 9
+    y_position: 8
+  drops:
+    permission: drops
+    show_in_gui: true
+    path: "emojis/twemoji/drops"
+    scale_ratio: 9
+    y_position: 8
+  drumstick:
+    permission: drumstick
+    show_in_gui: true
+    path: "emojis/twemoji/drumstick"
+    scale_ratio: 9
+    y_position: 8
+  duck:
+    permission: duck
+    show_in_gui: true
+    path: "emojis/twemoji/duck"
+    scale_ratio: 9
+    y_position: 8
+  eagle:
+    permission: eagle
+    show_in_gui: true
+    path: "emojis/twemoji/eagle"
+    scale_ratio: 9
+    y_position: 8
+  eggplant:
+    permission: eggplant
+    show_in_gui: true
+    path: "emojis/twemoji/eggplant"
+    scale_ratio: 9
+    y_position: 8
+  eject:
+    permission: eject
+    show_in_gui: true
+    path: "emojis/twemoji/eject"
+    scale_ratio: 9
+    y_position: 8
+  evil:
+    permission: evil
+    show_in_gui: true
+    path: "emojis/twemoji/evil"
+    scale_ratio: 9
+    y_position: 8
+  explodehead:
+    permission: explodehead
+    show_in_gui: true
+    path: "emojis/twemoji/explodehead"
+    scale_ratio: 9
+    y_position: 8
+  eyes:
+    permission: eyes
+    show_in_gui: true
+    path: "emojis/twemoji/eyes"
+    scale_ratio: 9
+    y_position: 8
+  facemask:
+    permission: facemask
+    show_in_gui: true
+    path: "emojis/twemoji/facemask"
+    scale_ratio: 9
+    y_position: 8
+  fastdown:
+    permission: fastdown
+    show_in_gui: true
+    path: "emojis/twemoji/fastdown"
+    scale_ratio: 9
+    y_position: 8
+  fastforward:
+    permission: fastforward
+    show_in_gui: true
+    path: "emojis/twemoji/fastforward"
+    scale_ratio: 9
+    y_position: 8
+  fastreverse:
+    permission: fastreverse
+    show_in_gui: true
+    path: "emojis/twemoji/fastreverse"
+    scale_ratio: 9
+    y_position: 8
+  fastup:
+    permission: fastup
+    show_in_gui: true
+    path: "emojis/twemoji/fastup"
+    scale_ratio: 9
+    y_position: 8
+  fbowing:
+    permission: fbowing
+    show_in_gui: true
+    path: "emojis/twemoji/fbowing"
+    scale_ratio: 9
+    y_position: 8
+  fear:
+    permission: fear
+    show_in_gui: true
+    path: "emojis/twemoji/fear"
+    scale_ratio: 9
+    y_position: 8
+  fear1:
+    permission: fear1
+    show_in_gui: true
+    path: "emojis/twemoji/fear1"
+    scale_ratio: 9
+    y_position: 8
+  fear3:
+    permission: fear3
+    show_in_gui: true
+    path: "emojis/twemoji/fear3"
+    scale_ratio: 9
+    y_position: 8
+  featcat:
+    permission: featcat
+    show_in_gui: true
+    path: "emojis/twemoji/featcat"
+    scale_ratio: 9
+    y_position: 8
+  ffacepalm:
+    permission: ffacepalm
+    show_in_gui: true
+    path: "emojis/twemoji/ffacepalm"
+    scale_ratio: 9
+    y_position: 8
+  fidk:
+    permission: fidk
+    show_in_gui: true
+    path: "emojis/twemoji/fidk"
+    scale_ratio: 9
+    y_position: 8
+  finger:
+    permission: finger
+    show_in_gui: true
+    path: "emojis/twemoji/finger"
+    scale_ratio: 9
+    y_position: 8
+  fire:
+    permission: fire
+    show_in_gui: true
+    path: "emojis/twemoji/fire"
+    scale_ratio: 9
+    y_position: 8
+  fish:
+    permission: fish
+    show_in_gui: true
+    path: "emojis/twemoji/fish"
+    scale_ratio: 9
+    y_position: 8
+  flamingo:
+    permission: flamingo
+    show_in_gui: true
+    path: "emojis/twemoji/flamingo"
+    scale_ratio: 9
+    y_position: 8
+  fmage:
+    permission: fmage
+    show_in_gui: true
+    path: "emojis/twemoji/fmage"
+    scale_ratio: 9
+    y_position: 8
+  fno:
+    permission: fno
+    show_in_gui: true
+    path: "emojis/twemoji/fno"
+    scale_ratio: 9
+    y_position: 8
+  fok:
+    permission: fok
+    show_in_gui: true
+    path: "emojis/twemoji/fok"
+    scale_ratio: 9
+    y_position: 8
+  frown:
+    permission: frown
+    show_in_gui: true
+    path: "emojis/twemoji/frown"
+    scale_ratio: 9
+    y_position: 8
+  frown2:
+    permission: frown2
+    show_in_gui: true
+    path: "emojis/twemoji/frown2"
+    scale_ratio: 9
+    y_position: 8
+  frown3:
+    permission: frown3
+    show_in_gui: true
+    path: "emojis/twemoji/frown3"
+    scale_ratio: 9
+    y_position: 8
+  frown4:
+    permission: frown4
+    show_in_gui: true
+    path: "emojis/twemoji/frown4"
+    scale_ratio: 9
+    y_position: 8
+  frown5:
+    permission: frown5
+    show_in_gui: true
+    path: "emojis/twemoji/frown5"
+    scale_ratio: 9
+    y_position: 8
+  frown6:
+    permission: frown6
+    show_in_gui: true
+    path: "emojis/twemoji/frown6"
+    scale_ratio: 9
+    y_position: 8
+  gemini:
+    permission: gemini
+    show_in_gui: true
+    path: "emojis/twemoji/gemini"
+    scale_ratio: 9
+    y_position: 8
+  giraffe:
+    permission: giraffe
+    show_in_gui: true
+    path: "emojis/twemoji/giraffe"
+    scale_ratio: 9
+    y_position: 8
+  halo:
+    permission: halo
+    show_in_gui: true
+    path: "emojis/twemoji/halo"
+    scale_ratio: 9
+    y_position: 8
+  hamburger:
+    permission: hamburger
+    show_in_gui: true
+    path: "emojis/twemoji/hamburger"
+    scale_ratio: 9
+    y_position: 8
+  handshake:
+    permission: handshake
+    show_in_gui: true
+    path: "emojis/twemoji/handshake"
+    scale_ratio: 9
+    y_position: 8
+  hashtag:
+    permission: hashtag
+    show_in_gui: true
+    path: "emojis/twemoji/hashtag"
+    scale_ratio: 9
+    y_position: 8
+  heart:
+    permission: heart
+    show_in_gui: true
+    path: "emojis/twemoji/heart"
+    scale_ratio: 9
+    y_position: 8
+  heart1:
+    permission: heart1
+    show_in_gui: true
+    path: "emojis/twemoji/heart1"
+    scale_ratio: 9
+    y_position: 8
+  heart2:
+    permission: heart2
+    show_in_gui: true
+    path: "emojis/twemoji/heart2"
+    scale_ratio: 9
+    y_position: 8
+  heart3:
+    permission: heart3
+    show_in_gui: true
+    path: "emojis/twemoji/heart3"
+    scale_ratio: 9
+    y_position: 8
+  heart4:
+    permission: heart4
+    show_in_gui: true
+    path: "emojis/twemoji/heart4"
+    scale_ratio: 9
+    y_position: 8
+  heart5:
+    permission: heart5
+    show_in_gui: true
+    path: "emojis/twemoji/heart5"
+    scale_ratio: 9
+    y_position: 8
+  heart6:
+    permission: heart6
+    show_in_gui: true
+    path: "emojis/twemoji/heart6"
+    scale_ratio: 9
+    y_position: 8
+  hehe:
+    permission: hehe
+    show_in_gui: true
+    path: "emojis/twemoji/hehe"
+    scale_ratio: 9
+    y_position: 8
+  hot:
+    permission: hot
+    show_in_gui: true
+    path: "emojis/twemoji/hot"
+    scale_ratio: 9
+    y_position: 8
+  hourglass:
+    permission: hourglass
+    show_in_gui: true
+    path: "emojis/twemoji/hourglass"
+    scale_ratio: 9
+    y_position: 8
+  hourglass1:
+    permission: hourglass1
+    show_in_gui: true
+    path: "emojis/twemoji/hourglass1"
+    scale_ratio: 9
+    y_position: 8
+  hug:
+    permission: hug
+    show_in_gui: true
+    path: "emojis/twemoji/hug"
+    scale_ratio: 9
+    y_position: 8
+  ice:
+    permission: ice
+    show_in_gui: true
+    path: "emojis/twemoji/ice"
+    scale_ratio: 9
+    y_position: 8
+  ill:
+    permission: ill
+    show_in_gui: true
+    path: "emojis/twemoji/ill"
+    scale_ratio: 9
+    y_position: 8
+  inlove:
+    permission: inlove
+    show_in_gui: true
+    path: "emojis/twemoji/inlove"
+    scale_ratio: 9
+    y_position: 8
+  inlove1:
+    permission: inlove1
+    show_in_gui: true
+    path: "emojis/twemoji/inlove1"
+    scale_ratio: 9
+    y_position: 8
+  inlovecat:
+    permission: inlovecat
+    show_in_gui: true
+    path: "emojis/twemoji/inlovecat"
+    scale_ratio: 9
+    y_position: 8
+  jackolantern:
+    permission: jackolantern
+    show_in_gui: true
+    path: "emojis/twemoji/jackolantern"
+    scale_ratio: 9
+    y_position: 8
+  kebab:
+    permission: kebab
+    show_in_gui: true
+    path: "emojis/twemoji/kebab"
+    scale_ratio: 9
+    y_position: 8
+  kiss:
+    permission: kiss
+    show_in_gui: true
+    path: "emojis/twemoji/kiss"
+    scale_ratio: 9
+    y_position: 8
+  kiss1:
+    permission: kiss1
+    show_in_gui: true
+    path: "emojis/twemoji/kiss1"
+    scale_ratio: 9
+    y_position: 8
+  kiss2:
+    permission: kiss2
+    show_in_gui: true
+    path: "emojis/twemoji/kiss2"
+    scale_ratio: 9
+    y_position: 8
+  kiss3:
+    permission: kiss3
+    show_in_gui: true
+    path: "emojis/twemoji/kiss3"
+    scale_ratio: 9
+    y_position: 8
+  lasttrack:
+    permission: lasttrack
+    show_in_gui: true
+    path: "emojis/twemoji/lasttrack"
+    scale_ratio: 9
+    y_position: 8
+  laugh:
+    permission: laugh
+    show_in_gui: true
+    path: "emojis/twemoji/laugh"
+    scale_ratio: 9
+    y_position: 8
+  laugh2:
+    permission: laugh2
+    show_in_gui: true
+    path: "emojis/twemoji/laugh2"
+    scale_ratio: 9
+    y_position: 8
+  laugh3:
+    permission: laugh3
+    show_in_gui: true
+    path: "emojis/twemoji/laugh3"
+    scale_ratio: 9
+    y_position: 8
+  laugh4:
+    permission: laugh4
+    show_in_gui: true
+    path: "emojis/twemoji/laugh4"
+    scale_ratio: 9
+    y_position: 8
+  laughcat:
+    permission: laughcat
+    show_in_gui: true
+    path: "emojis/twemoji/laughcat"
+    scale_ratio: 9
+    y_position: 8
+  left:
+    permission: left
+    show_in_gui: true
+    path: "emojis/twemoji/left"
+    scale_ratio: 9
+    y_position: 8
+  leftcurve:
+    permission: leftcurve
+    show_in_gui: true
+    path: "emojis/twemoji/leftcurve"
+    scale_ratio: 9
+    y_position: 8
+  leo:
+    permission: leo
+    show_in_gui: true
+    path: "emojis/twemoji/leo"
+    scale_ratio: 9
+    y_position: 8
+  lion:
+    permission: lion
+    show_in_gui: true
+    path: "emojis/twemoji/lion"
+    scale_ratio: 9
+    y_position: 8
+  lock:
+    permission: lock
+    show_in_gui: true
+    path: "emojis/twemoji/lock"
+    scale_ratio: 9
+    y_position: 8
+  luck:
+    permission: luck
+    show_in_gui: true
+    path: "emojis/twemoji/luck"
+    scale_ratio: 9
+    y_position: 8
+  lying:
+    permission: lying
+    show_in_gui: true
+    path: "emojis/twemoji/lying"
+    scale_ratio: 9
+    y_position: 8
+  m:
+    permission: m
+    show_in_gui: true
+    path: "emojis/twemoji/m"
+    scale_ratio: 9
+    y_position: 8
+  mad:
+    permission: mad
+    show_in_gui: true
+    path: "emojis/twemoji/mad"
+    scale_ratio: 9
+    y_position: 8
+  mbowing:
+    permission: mbowing
+    show_in_gui: true
+    path: "emojis/twemoji/mbowing"
+    scale_ratio: 9
+    y_position: 8
+  medal:
+    permission: medal
+    show_in_gui: true
+    path: "emojis/twemoji/medal"
+    scale_ratio: 9
+    y_position: 8
+  mfacepalm:
+    permission: mfacepalm
+    show_in_gui: true
+    path: "emojis/twemoji/mfacepalm"
+    scale_ratio: 9
+    y_position: 8
+  midk:
+    permission: midk
+    show_in_gui: true
+    path: "emojis/twemoji/midk"
+    scale_ratio: 9
+    y_position: 8
+  mmage:
+    permission: mmage
+    show_in_gui: true
+    path: "emojis/twemoji/mmage"
+    scale_ratio: 9
+    y_position: 8
+  mmh:
+    permission: mmh
+    show_in_gui: true
+    path: "emojis/twemoji/mmh"
+    scale_ratio: 9
+    y_position: 8
+  mno:
+    permission: mno
+    show_in_gui: true
+    path: "emojis/twemoji/mno"
+    scale_ratio: 9
+    y_position: 8
+  mok:
+    permission: mok
+    show_in_gui: true
+    path: "emojis/twemoji/mok"
+    scale_ratio: 9
+    y_position: 8
+  money:
+    permission: money
+    show_in_gui: true
+    path: "emojis/twemoji/money"
+    scale_ratio: 9
+    y_position: 8
+  moneyface:
+    permission: moneyface
+    show_in_gui: true
+    path: "emojis/twemoji/moneyface"
+    scale_ratio: 9
+    y_position: 8
+  monkey1:
+    permission: monkey1
+    show_in_gui: true
+    path: "emojis/twemoji/monkey1"
+    scale_ratio: 9
+    y_position: 8
+  monkey2:
+    permission: monkey2
+    show_in_gui: true
+    path: "emojis/twemoji/monkey2"
+    scale_ratio: 9
+    y_position: 8
+  monkey3:
+    permission: monkey3
+    show_in_gui: true
+    path: "emojis/twemoji/monkey3"
+    scale_ratio: 9
+    y_position: 8
+  monocle:
+    permission: monocle
+    show_in_gui: true
+    path: "emojis/twemoji/monocle"
+    scale_ratio: 9
+    y_position: 8
+  moon:
+    permission: moon
+    show_in_gui: true
+    path: "emojis/twemoji/moon"
+    scale_ratio: 9
+    y_position: 8
+  moon1:
+    permission: moon1
+    show_in_gui: true
+    path: "emojis/twemoji/moon1"
+    scale_ratio: 9
+    y_position: 8
+  moon2:
+    permission: moon2
+    show_in_gui: true
+    path: "emojis/twemoji/moon2"
+    scale_ratio: 9
+    y_position: 8
+  moon3:
+    permission: moon3
+    show_in_gui: true
+    path: "emojis/twemoji/moon3"
+    scale_ratio: 9
+    y_position: 8
+  moon4:
+    permission: moon4
+    show_in_gui: true
+    path: "emojis/twemoji/moon4"
+    scale_ratio: 9
+    y_position: 8
+  moon5:
+    permission: moon5
+    show_in_gui: true
+    path: "emojis/twemoji/moon5"
+    scale_ratio: 9
+    y_position: 8
+  nausea:
+    permission: nausea
+    show_in_gui: true
+    path: "emojis/twemoji/nausea"
+    scale_ratio: 9
+    y_position: 8
+  nerd:
+    permission: nerd
+    show_in_gui: true
+    path: "emojis/twemoji/nerd"
+    scale_ratio: 9
+    y_position: 8
+  neutral:
+    permission: neutral
+    show_in_gui: true
+    path: "emojis/twemoji/neutral"
+    scale_ratio: 9
+    y_position: 8
+  nexttrack:
+    permission: nexttrack
+    show_in_gui: true
+    path: "emojis/twemoji/nexttrack"
+    scale_ratio: 9
+    y_position: 8
+  no1:
+    permission: no1
+    show_in_gui: true
+    path: "emojis/twemoji/no1"
+    scale_ratio: 9
+    y_position: 8
+  noexpression:
+    permission: noexpression
+    show_in_gui: true
+    path: "emojis/twemoji/noexpression"
+    scale_ratio: 9
+    y_position: 8
+  nomouth:
+    permission: nomouth
+    show_in_gui: true
+    path: "emojis/twemoji/nomouth"
+    scale_ratio: 9
+    y_position: 8
+  ok:
+    permission: ok
+    show_in_gui: true
+    path: "emojis/twemoji/ok"
+    scale_ratio: 9
+    y_position: 8
+  ok1:
+    permission: ok1
+    show_in_gui: true
+    path: "emojis/twemoji/ok1"
+    scale_ratio: 9
+    y_position: 8
+  owl:
+    permission: owl
+    show_in_gui: true
+    path: "emojis/twemoji/owl"
+    scale_ratio: 9
+    y_position: 8
+  pan:
+    permission: pan
+    show_in_gui: true
+    path: "emojis/twemoji/pan"
+    scale_ratio: 9
+    y_position: 8
+  party:
+    permission: party
+    show_in_gui: true
+    path: "emojis/twemoji/party"
+    scale_ratio: 9
+    y_position: 8
+  party1:
+    permission: party1
+    show_in_gui: true
+    path: "emojis/twemoji/party1"
+    scale_ratio: 9
+    y_position: 8
+  pause:
+    permission: pause
+    show_in_gui: true
+    path: "emojis/twemoji/pause"
+    scale_ratio: 9
+    y_position: 8
+  peace:
+    permission: peace
+    show_in_gui: true
+    path: "emojis/twemoji/peace"
+    scale_ratio: 9
+    y_position: 8
+  peach:
+    permission: peach
+    show_in_gui: true
+    path: "emojis/twemoji/peach"
+    scale_ratio: 9
+    y_position: 8
+  pencil:
+    permission: pencil
+    show_in_gui: true
+    path: "emojis/twemoji/pencil"
+    scale_ratio: 9
+    y_position: 8
+  person:
+    permission: person
+    show_in_gui: true
+    path: "emojis/twemoji/person"
+    scale_ratio: 9
+    y_position: 8
+  pick:
+    permission: pick
+    show_in_gui: true
+    path: "emojis/twemoji/pick"
+    scale_ratio: 9
+    y_position: 8
+  pig:
+    permission: pig
+    show_in_gui: true
+    path: "emojis/twemoji/pig"
+    scale_ratio: 9
+    y_position: 8
+  pisces:
+    permission: pisces
+    show_in_gui: true
+    path: "emojis/twemoji/pisces"
+    scale_ratio: 9
+    y_position: 8
+  pizza:
+    permission: pizza
+    show_in_gui: true
+    path: "emojis/twemoji/pizza"
+    scale_ratio: 9
+    y_position: 8
+  play:
+    permission: play
+    show_in_gui: true
+    path: "emojis/twemoji/play"
+    scale_ratio: 9
+    y_position: 8
+  playpause:
+    permission: playpause
+    show_in_gui: true
+    path: "emojis/twemoji/playpause"
+    scale_ratio: 9
+    y_position: 8
+  please:
+    permission: please
+    show_in_gui: true
+    path: "emojis/twemoji/please"
+    scale_ratio: 9
+    y_position: 8
+  poo:
+    permission: poo
+    show_in_gui: true
+    path: "emojis/twemoji/poo"
+    scale_ratio: 9
+    y_position: 8
+  potato:
+    permission: potato
+    show_in_gui: true
+    path: "emojis/twemoji/potato"
+    scale_ratio: 9
+    y_position: 8
+  puke:
+    permission: puke
+    show_in_gui: true
+    path: "emojis/twemoji/puke"
+    scale_ratio: 9
+    y_position: 8
+  punch:
+    permission: punch
+    show_in_gui: true
+    path: "emojis/twemoji/punch"
+    scale_ratio: 9
+    y_position: 8
+  question:
+    permission: question
+    show_in_gui: true
+    path: "emojis/twemoji/question"
+    scale_ratio: 9
+    y_position: 8
+  radioactive:
+    permission: radioactive
+    show_in_gui: true
+    path: "emojis/twemoji/radioactive"
+    scale_ratio: 9
+    y_position: 8
+  raisedfist:
+    permission: raisedfist
+    show_in_gui: true
+    path: "emojis/twemoji/raisedfist"
+    scale_ratio: 9
+    y_position: 8
+  raisedhand:
+    permission: raisedhand
+    show_in_gui: true
+    path: "emojis/twemoji/raisedhand"
+    scale_ratio: 9
+    y_position: 8
+  record:
+    permission: record
+    show_in_gui: true
+    path: "emojis/twemoji/record"
+    scale_ratio: 9
+    y_position: 8
+  redcircle:
+    permission: redcircle
+    show_in_gui: true
+    path: "emojis/twemoji/redcircle"
+    scale_ratio: 9
+    y_position: 8
+  reverse:
+    permission: reverse
+    show_in_gui: true
+    path: "emojis/twemoji/reverse"
+    scale_ratio: 9
+    y_position: 8
+  riceball:
+    permission: riceball
+    show_in_gui: true
+    path: "emojis/twemoji/riceball"
+    scale_ratio: 9
+    y_position: 8
+  rightarrow:
+    permission: rightarrow
+    show_in_gui: true
+    path: "emojis/twemoji/rightarrow"
+    scale_ratio: 9
+    y_position: 8
+  rightcurve:
+    permission: rightcurve
+    show_in_gui: true
+    path: "emojis/twemoji/rightcurve"
+    scale_ratio: 9
+    y_position: 8
+  robot:
+    permission: robot
+    show_in_gui: true
+    path: "emojis/twemoji/robot"
+    scale_ratio: 9
+    y_position: 8
+  rock:
+    permission: rock
+    show_in_gui: true
+    path: "emojis/twemoji/rock"
+    scale_ratio: 9
+    y_position: 8
+  rolling:
+    permission: rolling
+    show_in_gui: true
+    path: "emojis/twemoji/rolling"
+    scale_ratio: 9
+    y_position: 8
+  rooster:
+    permission: rooster
+    show_in_gui: true
+    path: "emojis/twemoji/rooster"
+    scale_ratio: 9
+    y_position: 8
+  sad:
+    permission: sad
+    show_in_gui: true
+    path: "emojis/twemoji/sad"
+    scale_ratio: 9
+    y_position: 8
+  sagittarius:
+    permission: sagittarius
+    show_in_gui: true
+    path: "emojis/twemoji/sagittarius"
+    scale_ratio: 9
+    y_position: 8
+  salad:
+    permission: salad
+    show_in_gui: true
+    path: "emojis/twemoji/salad"
+    scale_ratio: 9
+    y_position: 8
+  salt:
+    permission: salt
+    show_in_gui: true
+    path: "emojis/twemoji/salt"
+    scale_ratio: 9
+    y_position: 8
+  scorpio:
+    permission: scorpio
+    show_in_gui: true
+    path: "emojis/twemoji/scorpio"
+    scale_ratio: 9
+    y_position: 8
+  scorpion:
+    permission: scorpion
+    show_in_gui: true
+    path: "emojis/twemoji/scorpion"
+    scale_ratio: 9
+    y_position: 8
+  shark:
+    permission: shark
+    show_in_gui: true
+    path: "emojis/twemoji/shark"
+    scale_ratio: 9
+    y_position: 8
+  shh:
+    permission: shh
+    show_in_gui: true
+    path: "emojis/twemoji/shh"
+    scale_ratio: 9
+    y_position: 8
+  shrimp:
+    permission: shrimp
+    show_in_gui: true
+    path: "emojis/twemoji/shrimp"
+    scale_ratio: 9
+    y_position: 8
+  sleeping:
+    permission: sleeping
+    show_in_gui: true
+    path: "emojis/twemoji/sleeping"
+    scale_ratio: 9
+    y_position: 8
+  sleepy:
+    permission: sleepy
+    show_in_gui: true
+    path: "emojis/twemoji/sleepy"
+    scale_ratio: 9
+    y_position: 8
+  small:
+    permission: small
+    show_in_gui: true
+    path: "emojis/twemoji/small"
+    scale_ratio: 9
+    y_position: 8
+  smile:
+    permission: smile
+    show_in_gui: true
+    path: "emojis/twemoji/smile"
+    scale_ratio: 9
+    y_position: 8
+  smile2:
+    permission: smile2
+    show_in_gui: true
+    path: "emojis/twemoji/smile2"
+    scale_ratio: 9
+    y_position: 8
+  smile3:
+    permission: smile3
+    show_in_gui: true
+    path: "emojis/twemoji/smile3"
+    scale_ratio: 9
+    y_position: 8
+  smile4:
+    permission: smile4
+    show_in_gui: true
+    path: "emojis/twemoji/smile4"
+    scale_ratio: 9
+    y_position: 8
+  smile5:
+    permission: smile5
+    show_in_gui: true
+    path: "emojis/twemoji/smile5"
+    scale_ratio: 9
+    y_position: 8
+  smile6:
+    permission: smile6
+    show_in_gui: true
+    path: "emojis/twemoji/smile6"
+    scale_ratio: 9
+    y_position: 8
+  smilecat:
+    permission: smilecat
+    show_in_gui: true
+    path: "emojis/twemoji/smilecat"
+    scale_ratio: 9
+    y_position: 8
+  sneeze:
+    permission: sneeze
+    show_in_gui: true
+    path: "emojis/twemoji/sneeze"
+    scale_ratio: 9
+    y_position: 8
+  soccerball:
+    permission: soccerball
+    show_in_gui: true
+    path: "emojis/twemoji/soccerball"
+    scale_ratio: 9
+    y_position: 8
+  sparkles:
+    permission: sparkles
+    show_in_gui: true
+    path: "emojis/twemoji/sparkles"
+    scale_ratio: 9
+    y_position: 8
+  squid:
+    permission: squid
+    show_in_gui: true
+    path: "emojis/twemoji/squid"
+    scale_ratio: 9
+    y_position: 8
+  star:
+    permission: star
+    show_in_gui: true
+    path: "emojis/twemoji/star"
+    scale_ratio: 9
+    y_position: 8
+  starcrescent:
+    permission: starcrescent
+    show_in_gui: true
+    path: "emojis/twemoji/starcrescent"
+    scale_ratio: 9
+    y_position: 8
+  stareyes:
+    permission: stareyes
+    show_in_gui: true
+    path: "emojis/twemoji/stareyes"
+    scale_ratio: 9
+    y_position: 8
+  stop:
+    permission: stop
+    show_in_gui: true
+    path: "emojis/twemoji/stop"
+    scale_ratio: 9
+    y_position: 8
+  stopsign:
+    permission: stopsign
+    show_in_gui: true
+    path: "emojis/twemoji/stopsign"
+    scale_ratio: 9
+    y_position: 8
+  sun:
+    permission: sun
+    show_in_gui: true
+    path: "emojis/twemoji/sun"
+    scale_ratio: 9
+    y_position: 8
+  sunglasses:
+    permission: sunglasses
+    show_in_gui: true
+    path: "emojis/twemoji/sunglasses"
+    scale_ratio: 9
+    y_position: 8
+  surprised:
+    permission: surprised
+    show_in_gui: true
+    path: "emojis/twemoji/surprised"
+    scale_ratio: 9
+    y_position: 8
+  sushi:
+    permission: sushi
+    show_in_gui: true
+    path: "emojis/twemoji/sushi"
+    scale_ratio: 9
+    y_position: 8
+  sweat:
+    permission: sweat
+    show_in_gui: true
+    path: "emojis/twemoji/sweat"
+    scale_ratio: 9
+    y_position: 8
+  taurus:
+    permission: taurus
+    show_in_gui: true
+    path: "emojis/twemoji/taurus"
+    scale_ratio: 9
+    y_position: 8
+  think:
+    permission: think
+    show_in_gui: true
+    path: "emojis/twemoji/think"
+    scale_ratio: 9
+    y_position: 8
+  think1:
+    permission: think1
+    show_in_gui: true
+    path: "emojis/twemoji/think1"
+    scale_ratio: 9
+    y_position: 8
+  think2:
+    permission: think2
+    show_in_gui: true
+    path: "emojis/twemoji/think2"
+    scale_ratio: 9
+    y_position: 8
+  think3:
+    permission: think3
+    show_in_gui: true
+    path: "emojis/twemoji/think3"
+    scale_ratio: 9
+    y_position: 8
+  think4:
+    permission: think4
+    show_in_gui: true
+    path: "emojis/twemoji/think4"
+    scale_ratio: 9
+    y_position: 8
+  think5:
+    permission: think5
+    show_in_gui: true
+    path: "emojis/twemoji/think5"
+    scale_ratio: 9
+    y_position: 8
+  think6:
+    permission: think6
+    show_in_gui: true
+    path: "emojis/twemoji/think6"
+    scale_ratio: 9
+    y_position: 8
+  tongue:
+    permission: tongue
+    show_in_gui: true
+    path: "emojis/twemoji/tongue"
+    scale_ratio: 9
+    y_position: 8
+  tree:
+    permission: tree
+    show_in_gui: true
+    path: "emojis/twemoji/tree"
+    scale_ratio: 9
+    y_position: 8
+  trex:
+    permission: trex
+    show_in_gui: true
+    path: "emojis/twemoji/trex"
+    scale_ratio: 9
+    y_position: 8
+  turkey:
+    permission: turkey
+    show_in_gui: true
+    path: "emojis/twemoji/turkey"
+    scale_ratio: 9
+    y_position: 8
+  twofingers:
+    permission: twofingers
+    show_in_gui: true
+    path: "emojis/twemoji/twofingers"
+    scale_ratio: 9
+    y_position: 8
+  unamused:
+    permission: unamused
+    show_in_gui: true
+    path: "emojis/twemoji/unamused"
+    scale_ratio: 9
+    y_position: 8
+  unicorn:
+    permission: unicorn
+    show_in_gui: true
+    path: "emojis/twemoji/unicorn"
+    scale_ratio: 9
+    y_position: 8
+  unlock:
+    permission: unlock
+    show_in_gui: true
+    path: "emojis/twemoji/unlock"
+    scale_ratio: 9
+    y_position: 8
+  up:
+    permission: up
+    show_in_gui: true
+    path: "emojis/twemoji/up"
+    scale_ratio: 9
+    y_position: 8
+  upsidedown:
+    permission: upsidedown
+    show_in_gui: true
+    path: "emojis/twemoji/upsidedown"
+    scale_ratio: 9
+    y_position: 8
+  virgo:
+    permission: virgo
+    show_in_gui: true
+    path: "emojis/twemoji/virgo"
+    scale_ratio: 9
+    y_position: 8
+  voltage:
+    permission: voltage
+    show_in_gui: true
+    path: "emojis/twemoji/voltage"
+    scale_ratio: 9
+    y_position: 8
+  warning:
+    permission: warning
+    show_in_gui: true
+    path: "emojis/twemoji/warning"
+    scale_ratio: 9
+    y_position: 8
+  wc:
+    permission: wc
+    show_in_gui: true
+    path: "emojis/twemoji/wc"
+    scale_ratio: 9
+    y_position: 8
+  what:
+    permission: what
+    show_in_gui: true
+    path: "emojis/twemoji/what"
+    scale_ratio: 9
+    y_position: 8
+  wink:
+    permission: wink
+    show_in_gui: true
+    path: "emojis/twemoji/wink"
+    scale_ratio: 9
+    y_position: 8
+  woozy:
+    permission: woozy
+    show_in_gui: true
+    path: "emojis/twemoji/woozy"
+    scale_ratio: 9
+    y_position: 8
+  write:
+    permission: write
+    show_in_gui: true
+    path: "emojis/twemoji/write"
+    scale_ratio: 9
+    y_position: 8
+  xd:
+    permission: xd
+    show_in_gui: true
+    path: "emojis/twemoji/xd"
+    scale_ratio: 9
+    y_position: 8
+  yawn:
+    permission: yawn
+    show_in_gui: true
+    path: "emojis/twemoji/yawn"
+    scale_ratio: 9
+    y_position: 8
+  yinyang:
+    permission: yinyang
+    show_in_gui: true
+    path: "emojis/twemoji/yinyang"
+    scale_ratio: 9
+    y_position: 8
+  yum:
+    permission: yum
+    show_in_gui: true
+    path: "emojis/twemoji/yum"
+    scale_ratio: 9
+    y_position: 8
+  zebra:
+    permission: zebra
+    show_in_gui: true
+    path: "emojis/twemoji/zebra"
+    scale_ratio: 9
+    y_position: 8
+  zip:
+    permission: zip
+    show_in_gui: true
+    path: "emojis/twemoji/zip"
+    scale_ratio: 9
+    y_position: 8

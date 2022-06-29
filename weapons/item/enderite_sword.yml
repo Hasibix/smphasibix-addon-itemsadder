@@ -1,0 +1,17 @@
+info:
+  namespace: smphasibix
+items:
+  enderite_sword:
+    enabled: true
+    display_name: "Enderite Sword"
+    permission: enderite_sword
+    resource:
+      material: NETHERITE_SWORD
+      generate: true
+      textures:
+        - item/enderite_sword.png
+    durability:
+      max_custom_durability: 5000
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 15

@@ -1,0 +1,79 @@
+info:
+  namespace: smphasibix
+items:
+  enderite_helmet:
+    enabled: true
+    display_name: "Enderite Helmet"
+    permission: enderite_helmet
+    resource:
+      generate: true
+      material: NETHERITE_HELMET
+      textures:
+        - item/enderite_helmet.png
+    durability:
+      max_custom_durability: 5000
+    specific_properties:
+      armor:
+        custom_armor: enderite_armor
+        slot: head
+    attribute_modifiers:
+      head:
+        armor: 10
+        armorToughness: 5
+  enderite_chestplate:
+    enabled: true
+    display_name: "Enderite Chestplate"
+    permission: enderite_chestplate
+    resource:
+      generate: true
+      material: NETHERITE_CHESTPLATE
+      textures:
+        - item/enderite_chestplate.png
+    durability:
+      max_custom_durability: 5000
+    specific_properties:
+      armor:
+        custom_armor: enderite_armor
+        slot: chest
+    attribute_modifiers:
+      chest:
+        armor: 20
+        armorToughness: 5
+  enderite_leggings:
+    enabled: true
+    display_name: "Enderite Leggings"
+    permission: enderite_leggings
+    resource:
+      generate: true
+      material: NETHERITE_LEGGINGS
+      textures:
+        - item/enderite_leggings.png
+    durability:
+      max_custom_durability: 5000
+    specific_properties:
+      armor:
+        custom_armor: enderite_armor
+        slot: legs
+    attribute_modifiers:
+      legs:
+        armor: 15
+        armorToughness: 5
+  enderite_boots:
+    enabled: true
+    display_name: "Enderite Boots"
+    permission: enderite_boots
+    resource:
+      generate: true
+      material: NETHERITE_BOOTS
+      textures:
+        - item/enderite_boots.png
+    durability:
+      max_custom_durability: 5000
+    specific_properties:
+      armor:
+        custom_armor: enderite_armor
+        slot: FEET
+    attribute_modifiers:
+      feet:
+        armor: 10
+        armorToughness: 5

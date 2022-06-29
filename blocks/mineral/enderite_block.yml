@@ -1,0 +1,20 @@
+info:
+  namespace: smphasibix
+items:
+  enderite_block:
+    enabled: true
+    display_name: "Enderite Block"
+    permission: enderite_block
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/enderite_block.png
+    specific_properties:
+      block:
+        placed_model:
+          type: TILE
+          break_particles_material: CYAN_CONCRETE
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

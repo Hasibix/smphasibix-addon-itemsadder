@@ -1,0 +1,20 @@
+info:
+  namespace: smphasibix
+items:
+  ruby_ore:
+    enabled: true
+    display_name: "Ruby Ore"
+    permission: ruby_ore
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - block/ruby_ore.png
+    specific_properties:
+      block:
+        placed_model:
+          type: TILE
+          break_particles_material: REDSTONE_ORE
+        break_tools_whitelist:
+          - PICKAXE
+          - pickaxe

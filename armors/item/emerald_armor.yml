@@ -1,0 +1,76 @@
+info:
+  namespace: smphasibix
+items:
+  emerald_helmet:
+    enabled: true
+    display_name: "Emerald Helmet"
+    permission: emerald_helmet
+    resource:
+      generate: true
+      material: DIAMOND_HELMET
+      textures:
+        - item/emerald_helmet.png
+    durability:
+      max_custom_durability: 200
+    specific_properties:
+      armor:
+        custom_armor: emerald_armor
+        slot: head
+    attribute_modifiers:
+      head:
+        armor: 1.3
+  emerald_chestplate:
+    enabled: true
+    display_name: "Emerald Chestplate"
+    permission: emerald_chestplate
+    resource:
+      generate: true
+      material: DIAMOND_CHESTPLATE
+      textures:
+        - item/emerald_chestplate.png
+    durability:
+      max_custom_durability: 400
+    specific_properties:
+      armor:
+        custom_armor: emerald_armor
+        slot: chest
+    attribute_modifiers:
+      chest:
+        armor: 3.5
+        armorToughness: 1
+  emerald_leggings:
+    enabled: true
+    display_name: "Emerald Leggings"
+    permission: emerald_leggings
+    resource:
+      generate: true
+      material: DIAMOND_LEGGINGS
+      textures:
+        - item/emerald_leggings.png
+    durability:
+      max_custom_durability: 300
+    specific_properties:
+      armor:
+        custom_armor: emerald_armor
+        slot: legs
+    attribute_modifiers:
+      legs:
+        armor: 2.7
+  emerald_boots:
+    enabled: true
+    display_name: "Emerald Boots"
+    permission: emerald_boots
+    resource:
+      generate: true
+      material: DIAMOND_BOOTS
+      textures:
+        - item/emerald_boots.png
+    durability:
+      max_custom_durability: 300
+    specific_properties:
+      armor:
+        custom_armor: emerald_armor
+        slot: FEET
+    attribute_modifiers:
+      feet:
+        armor: 1.3

@@ -1,0 +1,60 @@
+info:
+  namespace: smphasibix
+recipes:
+  crafting_table:
+    copper_helmet:
+      permission: copper_helmet
+      enabled: true
+      pattern:
+        - AAA
+        - AXA
+        - XXX
+      pattern_2:
+        - XXX
+        - AAA
+        - AXA
+      ingredients:
+        A: COPPER_INGOT
+      result:
+        item: smphasibix:copper_helmet
+        amount: 1
+    copper_chestplate:
+      permission: copper_chestplate
+      enabled: true
+      pattern:
+        - AXA
+        - AAA
+        - AAA
+      ingredients:
+        A: COPPER_INGOT
+      result:
+        item: smphasibix:copper_chestplate
+        amount: 1
+    copper_leggings:
+      permission: copper_leggings
+      enabled: true
+      pattern:
+        - AAA
+        - AXA
+        - AXA
+      ingredients:
+        A: COPPER_INGOT
+      result:
+        item: smphasibix:copper_leggings
+        amount: 1
+    copper_boots:
+      permission: copper_boots
+      enabled: true
+      pattern:
+        - XXX
+        - AXA
+        - AXA
+      pattern_2:
+        - AXA
+        - AXA
+        - XXX
+      ingredients:
+        A: COPPER_INGOT
+      result:
+        item: smphasibix:copper_boots
+        amount: 1

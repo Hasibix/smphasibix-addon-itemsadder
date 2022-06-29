@@ -1,0 +1,11 @@
+info:
+  namespace: smphasibix
+items:
+  example_icon:
+    enabled: true
+    display_name: display-name-example_icon
+    resource:
+      material: PAPER
+      generate: true
+      textures:
+        - icons/example_icon

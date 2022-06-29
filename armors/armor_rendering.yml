@@ -1,0 +1,28 @@
+info:
+  namespace: smphasibix
+armors_rendering:
+  amethyst_armor:
+    color: cc39e3
+    layer_1: armor/amethyst_layer_1.png
+    layer_2: armor/amethyst_layer_2.png
+    use_color: false
+  copper_armor:
+    color: e3762d
+    layer_1: armor/copper_layer_1.png
+    layer_2: armor/copper_layer_2.png
+    use_color: false
+  emerald_armor:
+    color: 00ff8c
+    layer_1: armor/emerald_layer_1.png
+    layer_2: armor/emerald_layer_2.png
+    use_color: false
+  ruby_armor:
+    color: e3394f
+    layer_1: armor/ruby_layer_1.png
+    layer_2: armor/ruby_layer_2.png
+    use_color: false
+  enderite_armor:
+    color: 03211a
+    layer_1: armor/enderite_layer_1.png
+    layer_2: armor/enderite_layer_2.png
+    use_color: false

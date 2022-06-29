@@ -1,0 +1,76 @@
+info:
+  namespace: smphasibix
+items:
+  copper_helmet:
+    enabled: true
+    display_name: "Copper Helmet"
+    permission: copper_helmet
+    resource:
+      generate: true
+      material: DIAMOND_HELMET
+      textures:
+        - item/copper_helmet.png
+    durability:
+      max_custom_durability: 300
+    specific_properties:
+      armor:
+        custom_armor: copper_armor
+        slot: head
+    attribute_modifiers:
+      head:
+        armor: 1
+  copper_chestplate:
+    enabled: true
+    display_name: "Copper Chestplate"
+    permission: copper_chestplate
+    resource:
+      generate: true
+      material: DIAMOND_CHESTPLATE
+      textures:
+        - item/copper_chestplate.png
+    durability:
+      max_custom_durability: 500
+    specific_properties:
+      armor:
+        custom_armor: copper_armor
+        slot: chest
+    attribute_modifiers:
+      chest:
+        armor: 3
+        armorToughness: 1
+  copper_leggings:
+    enabled: true
+    display_name: "Copper Leggings"
+    permission: copper_leggings
+    resource:
+      generate: true
+      material: DIAMOND_LEGGINGS
+      textures:
+        - item/copper_leggings.png
+    durability:
+      max_custom_durability: 300
+    specific_properties:
+      armor:
+        custom_armor: copper_armor
+        slot: legs
+    attribute_modifiers:
+      legs:
+        armor: 2
+  copper_boots:
+    enabled: true
+    display_name: "Copper Boots"
+    permission: copper_boots
+    resource:
+      generate: true
+      material: DIAMOND_BOOTS
+      textures:
+        - item/copper_boots.png
+    durability:
+      max_custom_durability: 300
+    specific_properties:
+      armor:
+        custom_armor: copper_armor
+        slot: FEET
+    attribute_modifiers:
+      feet:
+        armor: 1

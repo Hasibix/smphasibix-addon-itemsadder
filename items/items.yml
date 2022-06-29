@@ -1,0 +1,25 @@
+info:
+  namespace: smphasibix
+items:
+  example_item:
+    display_name: display-name-example_item
+    permission: example_item
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - item/example_item.png
+    durability:
+      max_custom_durability: 1324
+    events:
+      interact:
+        left:
+          play_sound:
+            name: block.ancient_debris.hit
+            volume: 1
+            pitch: 1
+      kill:
+        play_sound:
+          name: ambient.cave
+          volume: 1
+          pitch: 1
